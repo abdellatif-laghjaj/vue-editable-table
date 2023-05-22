@@ -7,7 +7,7 @@ This is a simple editable table component built with Vue.js and Vite. It allows 
 
 ## Features
 
-- Add, edit, and delete rows of product data
+- Add, edit, and delete rows of data
 - Automatic data persistence using browser's local storage
 - Input validation to ensure all fields are filled before adding a new row
 - Confirmation prompt before saving changes
