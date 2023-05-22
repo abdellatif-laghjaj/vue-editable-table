@@ -1,6 +1,9 @@
 # Vue.js Editable Table
 
-This is a simple editable table component built with Vue.js and Vite. It allows users to manage and manipulate product information in a tabular format.
+This is a simple editable table component built with Vue.js and Vite. It allows users to manage and manipulate data in a tabular format.
+
+## Screenshot
+<img src="src/assets/capture.png" />
 
 ## Features
 
@@ -29,6 +32,6 @@ This is a simple editable table component built with Vue.js and Vite. It allows 
     ```bash
     npm run dev or yarn dev
 
-5. Open your browser and visit ```http://localhost:YOUR_PORT``` to see the editable table in action.
+5. Open your browser and visit ```http://localhost:5173/``` to see the editable table in action.
 
 6. have fun 😺
