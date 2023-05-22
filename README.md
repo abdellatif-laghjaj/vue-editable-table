@@ -1,8 +1,37 @@
-# Vue 3 + Vite
+# Vue.js Editable Table
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a simple editable table component built with Vue.js and Vite. It allows users to manage and manipulate data in a tabular format.
 
-## Recommended IDE Setup
+## Screenshot
+<img src="src/assets/capture.png" />
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-# vue-editable-table
+## Features
+
+- Add, edit, and delete rows of product data
+- Automatic data persistence using browser's local storage
+- Input validation to ensure all fields are filled before adding a new row
+- Confirmation prompt before saving changes
+- Simple and intuitive user interface
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository_url>
+   
+2. Navigate to the project directory:
+    ```bash
+   cd vue-editable-table
+
+3. Install dependencies using your preferred package manager:
+    ```bash
+    npm install or yarn install
+
+4. Run the development server:
+    ```bash
+    npm run dev or yarn dev
+
+5. Open your browser and visit ```http://localhost:5173/``` to see the editable table in action.
+
+6. have fun 😺
