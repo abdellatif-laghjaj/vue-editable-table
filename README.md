@@ -2,8 +2,8 @@
 
 This is a simple editable table component built with Vue.js and Vite. It allows users to manage and manipulate data in a tabular format.
 
-## Screenshot
-<img src="src/assets/capture.PNG" />
+<!-- ## Screenshot -->
+<!-- <img src="src/assets/capture.PNG" /> -->
 
 ## Features
 
